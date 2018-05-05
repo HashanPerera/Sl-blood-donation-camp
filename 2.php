@@ -46,7 +46,7 @@
       <input type="submit" value="Register" name="register" class="btn btn-block btn-primary" />-->
     	
       <input type="submit" value="Submit" name="Submit" class="btn">
-      <input type="submit" value="Cancel" name="Cancel" class="bt" onclick="window.location.href='http://project1/home.php'" />
+      <input type="submit" value="Cancel" name="Cancel" class="btn" onclick="window.location.href='http://project1/home.php'" />
 
     </form>
   </div>
