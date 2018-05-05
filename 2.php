@@ -46,7 +46,7 @@
       <input type="submit" value="Register" name="register" class="btn btn-block btn-primary" />-->
     	
       <input type="submit" value="Submit" name="Submit" class="btn">
-      <input type="submit" value="Cancel" name="Cancel" class="btn" onclick="window.location.href='http://project1/index.php'" />
+      <input type="submit" value="Cancel" name="Cancel" class="btn" onclick="window.location.href='https://github.com/HashanPerera/Sl-blood-donation-camp/blob/master/index.php'" />
 
     </form>
   </div>
